@@ -1,3 +1,3 @@
 # hello-world
 Just Test repository
-Hello human , i like node.js and going to mars
+Hello human , I am from Mars and came her to study full stack .
